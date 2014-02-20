@@ -1,0 +1,18 @@
+C:\DSD\DDRandMB\640x480_RGB565\ip\hdmi_out\implementation\system.ngc 1392922570
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_vmodcam_0_wrapper.ngc 1392922500
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_rs232_uart_1_wrapper.ngc 1392922191
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_proc_sys_reset_0_wrapper.ngc 1392922191
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_clock_generator_0_wrapper.ngc 1392922464
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_pll_module_0_wrapper.ngc 1392922191
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_microblaze_0_ilmb_wrapper.ngc 1392922191
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_microblaze_0_dlmb_wrapper.ngc 1392922191
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_mcb_ddr2_wrapper.ngc 1392922492
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_axi4lite_0_wrapper.ngc 1392922471
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_axi4_0_wrapper.ngc 1392922484
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_microblaze_0_wrapper.ngc 1392922191
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_hdmi_out_0_wrapper.ngc 1392922404
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_microblaze_0_i_bram_ctrl_wrapper.ngc 1392922213
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_microblaze_0_d_bram_ctrl_wrapper.ngc 1392922225
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_debug_module_wrapper.ngc 1392922191
+C:/DSD/DDRandMB/640x480_RGB565/ip/hdmi_out/implementation/system_microblaze_0_bram_block_wrapper.ngc 1392922191
+OK
